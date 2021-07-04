@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "token 1",
-    "token 2",
-    "token 3"
+    "4236b06be39aa0143f94ad4bcedffd656e2513f2f640d6648f140aaa32eeec933f3af2606742e9d44ff32",
+    "517076b32a5c8816d296d909bb3a618b9753a852bf4f94ba94164daa02bd04894c3ff4738b3cda73af92b",
+    "aafa776352b266f130b488eb0045047558e1b594a992c3d5cc1b08a066c48bb6b767cbcee3faaf3020dca"
   ],
-  "secret_code": "IDM secret code",
+  "naum2109": "IDM naum2109",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
